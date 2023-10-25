@@ -5,8 +5,8 @@ public class MinhaClasse {
  */
 public static void main(String[] args) {
 
-    String primeiroNome = "Gleyson";
-    String segundoNome = "Sampaio";
+    String primeiroNome = "Calvão";
+    String segundoNome = "De Cria";
 
     String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
     String nomeCompleto2 = nomeCompleto;
